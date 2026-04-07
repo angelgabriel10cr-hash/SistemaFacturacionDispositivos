@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="SistemaVentaDispositivosElectronicos/SistemaVentaDispositivosElectronicos.csproj" Id="e1430573-04a2-4dc1-918c-94ad81bf656d" />
+  <Project Path="SVDE.BLL/SVDE.BLL.csproj" Id="8203060f-5583-4840-9a49-2c38e378bb47" />
+  <Project Path="SVDE.DAL1/SVDE.DAL1.csproj" Id="1bb8d770-c482-47ee-9dc9-f762aed111ba" />
+  <Project Path="SVDE.Entidades/SVDE.Entidades.csproj" Id="9d781074-1913-4320-b2ff-88900ab679c8" />
+  <Project Path="SVDE.Enumeradores/SVDE.Enumeradores.csproj" Id="8c26450c-8c81-4f4b-8ea8-c26c845af5d8" />
+  <Project Path="SVDE.Factories/SVDE.Factories.csproj" Id="7d8599ed-2b96-4ac0-90c1-9d70e7a796f0" />
+  <Project Path="SVDE.Interfaces/SVDE.Interfaces.csproj" Id="39674501-d9f0-4c56-9e21-3390e6cbe676" />
+  <Project Path="SVDE.UI.WinForms1/SVDE.UI.WinForms1.csproj" Id="693823a6-036f-4f02-9da6-e5bf5169dcfe" />
+  <Project Path="SVDE.Utilitarios1/SVDE.Utilitarios1.csproj" Id="8f4f9e14-38a0-4dad-b649-7f53c5b6a21f" />
+</Solution>
