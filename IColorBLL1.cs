@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace SVDE.Interfaces.BLL
 {
-    public interface IProvinciaBLL
+    public interface IColorBLL
     {
-        List<Provincia> Listar();
+        List<Color> Listar();
     }
 }

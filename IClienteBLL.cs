@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace SVDE.Interfaces.BLL
 {
-    public interface IProvinciaBLL
+    public interface IClienteBLL
     {
-        List<Provincia> Listar();
+        List<Cliente> Listar();
+        Cliente ObtenerPorId(int idCliente);
+        bool Guardar(Cliente entidad);
+        bool Eliminar(int idCliente);
     }
 }
