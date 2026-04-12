@@ -29,10 +29,10 @@ namespace SVDE.Entidades.Maestros
         public string Marca { get; set; }
         public string Modelo { get; set; }
         public string Color { get; set; }
-        public byte[] Fotografia { get; set; }
         
         public string NombreDocumentoEspecificacion { get; set; }
         public string ExtensionDocumentoEspecificacion { get; set; }
+        public byte[] Fotografia { get; set; }
 
     }
 }
